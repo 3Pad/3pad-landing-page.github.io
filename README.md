@@ -12,8 +12,6 @@ More Info - https://hello.3pad.xyz
 Welcome to the Repository for 3Pad (Landing Page). This repository contains the landing page which is pulled by decentralized services like IPFS and InterPlanetary File System (IPFS).
 
 
-## Requirements
-To use this repository, you need to have basic knowledge of decentralized networks like IPFS and ICP. You should also be familiar with Git and have a Github account set up.
 ## Decentralized Services
 This repository is pulled by Decentralized services IPFS Hash. These services allow for the secure and decentralized distribution of your website's files. You can access your website through the following links:
 
