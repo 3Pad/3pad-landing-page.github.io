@@ -9,23 +9,19 @@ More Info - https://hello.3pad.xyz
 
 # 3Pad Readme
 
-Welcome to the Repository for 3Pad (Landing Page). This repository contains the landing page which is pulled by decentralized services like IPFS and InterPlanetary File System (IPFS).
+Welcome to the Repository for 3Pad (Landing Page). This repository contains the landing page which is pulled by decentralized services like Internet Computer (ICP).
 
 
 ## Decentralized Services
-This repository is pulled by Decentralized services IPFS Hash. These services allow for the secure and decentralized distribution of your website's files. You can access your website through the following links:
+This repository is pulled by Decentralized services ICP. These services allow for the secure and decentralized distribution of your website's files. You can access your website through the following links:
 
-IPFS URL: https://hello.3pad.xyz/
+ICP URL: https://hello.3pad.xyz/
 
-IPFS URL: https://ipfs.io//ipfs/bafybeifjjypfegaqzprybxqiz3gzhlveseo6jqmp3ql5iojftvxwmplnuq/
-(Hashes are subject to change)
+ICP URL: https://63vso-piaaa-aaaam-abffq-cai.ic0.app/
 
-Please note that in order to view your website through the URL, you will need to have an IPFS gateway or a DApp browser that supports IPFS. To get started, you can use a public IPFS gateway such as https://gateway.ipfs.io/.
 ## Contributing
 
 We welcome contributions from the community. If you find any bugs or have any suggestions for improvement, please feel free to create an issue in the repository.
-
-
 
 ## Support
 
